@@ -11,4 +11,4 @@ I like to use these languages to make stupid shit
 
 
 ## Music that im playing rn
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=cbukclxx5jlzmvs5ok99iidcp&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cbukclxx5jlzmvs5ok99iidcp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cbukclxx5jlzmvs5ok99iidcp&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=cbukclxx5jlzmvs5ok99iidcp&redirect=true)
