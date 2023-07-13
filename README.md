@@ -7,6 +7,8 @@ I like to use these languages to make stupid shit
 
 
 [![My Skills](https://skillicons.dev/icons?i=lua,python)](https://skillicons.dev)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriterin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
